@@ -1,0 +1,10 @@
+
+
+
+.nav{
+    z-index: 50;
+}
+
+.nav :global(.icon:hover .list){
+    opacity: 1;
+}
